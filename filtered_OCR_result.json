@@ -1,0 +1,447 @@
+[
+  {
+    "start": 48.41508174841508, 
+    "end": 67.76776776776777, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 87.12045378712045, 
+    "end": 106.47313980647314, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 164.5311978645312, 
+    "end": 183.8838838838839, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          87, 
+          1118, 
+          745
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal", 
+        "location": [
+          1159, 
+          264, 
+          950, 
+          338
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia {", 
+        "location": [
+          2024, 
+          260, 
+          1298, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " function ", 
+        "location": [
+          3185, 
+          264, 
+          1525, 
+          349
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          998, 
+          134
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Modulate t", 
+        "location": [
+          200, 
+          1343, 
+          1874, 
+          374
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " thai", 
+        "location": [
+          1892, 
+          1343, 
+          626, 
+          362
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " 1lamo-cortical", 
+        "location": [
+          2374, 
+          1343, 
+          2258, 
+          362
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4553, 
+          1343, 
+          134, 
+          362
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " activity", 
+        "location": [
+          4688, 
+          1350, 
+          1453, 
+          446
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2101, 
+          2023, 
+          410, 
+          362
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2501, 
+          2023, 
+          1130, 
+          374
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Initiation \u00a2", 
+        "location": [
+          548, 
+          2033, 
+          1682, 
+          362
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3498, 
+          2034, 
+          494, 
+          350
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": "", 
+        "location": [
+          292, 
+          2152, 
+          158, 
+          146
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1478
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": " essic PF", 
+        "location": [
+          1153, 
+          2721, 
+          1105, 
+          410
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2611, 
+          2723, 
+          410, 
+          361
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2978, 
+          2723, 
+          1682, 
+          362
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          569, 
+          2741, 
+          698, 
+          410
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2109, 
+          2797, 
+          470, 
+          278
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": "", 
+        "location": [
+          292, 
+          2852, 
+          146, 
+          146
+        ], 
+        "block_num": 21
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 183.8838838838839, 
+    "end": 241.94194194194196, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          88, 
+          1117, 
+          733
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel |", 
+        "location": [
+          1141, 
+          264, 
+          1382, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathway", 
+        "location": [
+          2372, 
+          260, 
+          1358, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3982, 
+          261, 
+          158, 
+          422
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5313, 
+          261, 
+          134, 
+          422
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " streams}", 
+        "location": [
+          4047, 
+          306, 
+          1465, 
+          290
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " YS", 
+        "location": [
+          3542, 
+          345, 
+          386, 
+          325
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          783, 
+          998, 
+          122
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " MOTE LOIS", 
+        "location": [
+          1543, 
+          805, 
+          613, 
+          74
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3133, 
+          805, 
+          841, 
+          74
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          814, 
+          938, 
+          2978
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          916, 
+          825, 
+          1010, 
+          2966
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3610, 
+          825, 
+          914, 
+          2966
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4680, 
+          2167, 
+          1886, 
+          1478
+        ], 
+        "block_num": 14
+      }
+    ], 
+    "shot_id": 9
+  }, 
+  {
+    "start": 590.2902902902903, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": " ay Basal ganglia dysfunction \u00a2 Hypokinetic movement disorders (Parkisonsim): failure of initiation \u00ab Hyperkinetic movement disorders (Huntington\u2019s disease): failure of suppression \u00ab Affective and cognitive disorders (depression, schizophrenia, Tourette\u2019s syndrome): failure of initiation and/or suppression (?) ", 
+        "location": [
+          0, 
+          0, 
+          582, 
+          417
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          467, 
+          216, 
+          196, 
+          146
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 23
+  }
+]

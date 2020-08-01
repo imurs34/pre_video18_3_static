@@ -1,0 +1,7416 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 3.3,
+    "text": "You're probably wondering well, what are the basal ganglia?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "You're"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "probably"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "wondering"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "well,"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.6,
+        "word": "what"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "are"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "the"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "basal"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "ganglia?"
+      }
+    ],
+    "length": 3.3
+  },
+  {
+    "id": 1,
+    "start": 3.3,
+    "end": 4.3,
+    "text": "I've heard that before.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "I've"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.7,
+        "word": "heard"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "that"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "before."
+      }
+    ],
+    "length": 1.0
+  },
+  {
+    "id": 2,
+    "start": 4.3,
+    "end": 13.3,
+    "text": "I remember watching some videos from the Nur anatomy lab where I pointed out the basal ganglia, but really what are they?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "I"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.9,
+        "word": "remember"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "watching"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "some"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "videos"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.8,
+        "word": "from"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "the"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "Nur"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.6,
+        "word": "anatomy"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "lab"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.6,
+        "word": "where"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "I"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "pointed"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "out"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "the"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.7,
+        "word": "basal"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.7,
+        "word": "ganglia,"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 7.7,
+        "word": "but"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.5,
+        "word": "really"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.7,
+        "word": "what"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "are"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "they?"
+      }
+    ],
+    "length": 9.0
+  },
+  {
+    "id": 3,
+    "start": 13.3,
+    "end": 19.8,
+    "text": "So let me tell you the basal ganglia are a collection of nuclei that are found deep in the base of the forebrain.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "So"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.9,
+        "word": "let"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "me"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "tell"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "you"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "the"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "basal"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.7,
+        "word": "are"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "a"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "collection"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.7,
+        "word": "of"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.4,
+        "word": "nuclei"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "that"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "are"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "found"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.4,
+        "word": "deep"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "in"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "the"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "base"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "of"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "the"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "forebrain."
+      }
+    ],
+    "length": 6.5
+  },
+  {
+    "id": 4,
+    "start": 19.8,
+    "end": 30.9,
+    "text": "They are developed from the telencephalon the same part of the developing nervous system that form the cerebral cortex, except the neurons of the basal ganglia.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "They"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "are"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 2.5,
+        "word": "developed"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "from"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.2,
+        "word": "the"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.7,
+        "word": "telencephalon"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 5.0,
+        "word": "the"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "same"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "part"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.8,
+        "word": "of"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "the"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "developing"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.0,
+        "word": "nervous"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.4,
+        "word": "system"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.4,
+        "word": "that"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.8,
+        "word": "form"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "the"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.3,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "cortex,"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 10.0,
+        "word": "except"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "the"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.5,
+        "word": "neurons"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.6,
+        "word": "of"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.6,
+        "word": "the"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.1,
+        "word": "ganglia."
+      }
+    ],
+    "length": 11.099999999999998
+  },
+  {
+    "id": 5,
+    "start": 30.9,
+    "end": 39.5,
+    "text": "I didn't migrate out to the expanding outer sphere of the developing Talent cephalon.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "I"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "didn't"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.2,
+        "word": "migrate"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.9,
+        "word": "out"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.6,
+        "word": "to"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.4,
+        "word": "the"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.2,
+        "word": "expanding"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.9,
+        "word": "outer"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.3,
+        "word": "sphere"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.4,
+        "word": "of"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.7,
+        "word": "the"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.3,
+        "word": "developing"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.0,
+        "word": "Talent"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.6,
+        "word": "cephalon."
+      }
+    ],
+    "length": 8.600000000000001
+  },
+  {
+    "id": 6,
+    "start": 39.5,
+    "end": 52.2,
+    "text": "Rather the cells that form the basal ganglia stay close to the base of the of the ventricular system, which is why the basal ganglia in the adult brain and being very close to the lateral ventricles.",
+    "words": [
+      {
+        "startTime": 0.8,
+        "endTime": 1.4,
+        "word": "Rather"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "the"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.1,
+        "word": "cells"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.1,
+        "word": "that"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "form"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "the"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.9,
+        "word": "basal"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 2.9,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.6,
+        "word": "stay"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "close"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "to"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "the"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "base"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.8,
+        "word": "of"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.8,
+        "word": "the"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.4,
+        "word": "of"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.4,
+        "word": "the"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "ventricular"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "system,"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 7.3,
+        "word": "which"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "is"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "why"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "the"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.3,
+        "word": "basal"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.9,
+        "word": "in"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "the"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.4,
+        "word": "adult"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.5,
+        "word": "brain"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.4,
+        "word": "and"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 11.3,
+        "word": "being"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.4,
+        "word": "very"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.7,
+        "word": "close"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.9,
+        "word": "to"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "the"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.4,
+        "word": "lateral"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.7,
+        "word": "ventricles."
+      }
+    ],
+    "length": 12.700000000000003
+  },
+  {
+    "id": 7,
+    "start": 52.2,
+    "end": 62.3,
+    "text": " Well these basal ganglia than they are at they are a collection of nuclei that relate to the functions of the cerebral cortex.",
+    "words": [
+      {
+        "startTime": 1.5,
+        "endTime": 2.0,
+        "word": "Well"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.6,
+        "word": "these"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "than"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "they"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "are"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "at"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "they"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "are"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 4.9,
+        "word": "a"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.4,
+        "word": "collection"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "of"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.2,
+        "word": "nuclei"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 7.0,
+        "word": "that"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 8.0,
+        "word": "relate"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.3,
+        "word": "to"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.7,
+        "word": "the"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.4,
+        "word": "functions"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.5,
+        "word": "of"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.6,
+        "word": "the"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.0,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "cortex."
+      }
+    ],
+    "length": 10.099999999999994
+  },
+  {
+    "id": 8,
+    "start": 62.3,
+    "end": 68.4,
+    "text": "The basal ganglia receive input from widespread regions of the cerebral cortex.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.7,
+        "word": "The"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 3.5,
+        "word": "receive"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.0,
+        "word": "input"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "from"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "widespread"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.4,
+        "word": "regions"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "of"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "the"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "cortex."
+      }
+    ],
+    "length": 6.1000000000000085
+  },
+  {
+    "id": 9,
+    "start": 68.4,
+    "end": 76.6,
+    "text": "There are then several stages of processing within the circuitry of the basal ganglia and then the output of the basal ganglia.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.5,
+        "word": "There"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "are"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "then"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "several"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "stages"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "of"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.6,
+        "word": "processing"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.6,
+        "word": "within"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "circuitry"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "of"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "the"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.7,
+        "word": "basal"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.9,
+        "word": "and"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.1,
+        "word": "then"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "the"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.6,
+        "word": "output"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.7,
+        "word": "of"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.8,
+        "word": "the"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.2,
+        "word": "basal"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.2,
+        "word": "ganglia."
+      }
+    ],
+    "length": 8.199999999999989
+  },
+  {
+    "id": 10,
+    "start": 76.6,
+    "end": 93.5,
+    "text": "It doesn't go directly back to Cortex, but rather it goes to the thalamus and then the thalamus in turn is what modulates the output of the cerebal cortex in this case the delivery of a command signal down the corticospinal tract.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "It"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "doesn't"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "go"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "directly"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "back"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "to"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.5,
+        "word": "Cortex,"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "but"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.9,
+        "word": "rather"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "it"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.7,
+        "word": "goes"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "to"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.0,
+        "word": "the"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "thalamus"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 5.5,
+        "word": "and"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.8,
+        "word": "then"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "the"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.3,
+        "word": "thalamus"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.2,
+        "word": "in"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.7,
+        "word": "turn"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.0,
+        "word": "is"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.4,
+        "word": "what"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 9.5,
+        "word": "modulates"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.5,
+        "word": "the"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.1,
+        "word": "output"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.3,
+        "word": "of"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "the"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.1,
+        "word": "cerebal"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.2,
+        "word": "cortex"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.8,
+        "word": "in"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 11.9,
+        "word": "this"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.2,
+        "word": "case"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 13.0,
+        "word": "the"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 14.5,
+        "word": "delivery"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.6,
+        "word": "of"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.7,
+        "word": "a"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 15.1,
+        "word": "command"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "signal"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.6,
+        "word": "down"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 15.8,
+        "word": "the"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 16.2,
+        "word": "corticospinal"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.9,
+        "word": "tract."
+      }
+    ],
+    "length": 16.900000000000006
+  },
+  {
+    "id": 11,
+    "start": 93.5,
+    "end": 100.7,
+    "text": " Now there are other Pathways to the basal ganglia that send their output to Targets in the brainstem and I'll mention them at just a moment.",
+    "words": [
+      {
+        "startTime": 0.7,
+        "endTime": 1.2,
+        "word": "Now"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "there"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.4,
+        "word": "are"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.2,
+        "word": "other"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.8,
+        "word": "Pathways"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "to"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.1,
+        "word": "the"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.6,
+        "word": "basal"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.6,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "that"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "send"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "their"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.9,
+        "word": "output"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "to"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.5,
+        "word": "Targets"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.5,
+        "word": "in"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "the"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.0,
+        "word": "brainstem"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "and"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.3,
+        "word": "I'll"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "mention"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "them"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "at"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "just"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "a"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.2,
+        "word": "moment."
+      }
+    ],
+    "length": 7.200000000000003
+  },
+  {
+    "id": 12,
+    "start": 100.7,
+    "end": 116.9,
+    "text": "But for the most part, I want you to understand that the major function of the basal ganglia is to modulate the lamo cortical activity what I mean is the way the thalamus interacts with the cortex in the case of the expression of voluntary movement.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "But"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "for"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.3,
+        "word": "the"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "most"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.6,
+        "word": "part,"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "I"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "want"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "you"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "to"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.3,
+        "word": "understand"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "that"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "the"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "major"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.8,
+        "word": "function"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.9,
+        "word": "of"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "the"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "basal"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.7,
+        "word": "is"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.0,
+        "word": "to"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.8,
+        "word": "modulate"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.6,
+        "word": "the"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.9,
+        "word": "lamo"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.5,
+        "word": "cortical"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.6,
+        "word": "activity"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.4,
+        "word": "what"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "I"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.8,
+        "word": "mean"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.0,
+        "word": "is"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.4,
+        "word": "the"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.6,
+        "word": "way"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 11.7,
+        "word": "the"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.1,
+        "word": "thalamus"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.7,
+        "word": "interacts"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.8,
+        "word": "with"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 12.9,
+        "word": "the"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.6,
+        "word": "cortex"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 13.8,
+        "word": "in"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 13.8,
+        "word": "the"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.2,
+        "word": "case"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.4,
+        "word": "of"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.6,
+        "word": "the"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.1,
+        "word": "expression"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.1,
+        "word": "of"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "voluntary"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 16.2,
+        "word": "movement."
+      }
+    ],
+    "length": 16.200000000000003
+  },
+  {
+    "id": 13,
+    "start": 116.9,
+    "end": 134.8,
+    "text": "This is critical because the thalamus provides a trigger signal that leads typically to the expression of movement as the motor cortical circuits, then send signals down the corticospinal pathway corticobulbar Pathway to control the expression of movement.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "This"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.6,
+        "word": "is"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.2,
+        "word": "critical"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "because"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "the"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "thalamus"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 3.3,
+        "word": "provides"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "a"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.7,
+        "word": "trigger"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "signal"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "that"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.9,
+        "word": "leads"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.9,
+        "word": "typically"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.6,
+        "word": "to"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "the"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.3,
+        "word": "expression"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.5,
+        "word": "of"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.1,
+        "word": "movement"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.7,
+        "word": "as"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "the"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "motor"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.6,
+        "word": "cortical"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.2,
+        "word": "circuits,"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.6,
+        "word": "then"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 10.9,
+        "word": "send"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.4,
+        "word": "signals"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.7,
+        "word": "down"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.9,
+        "word": "the"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.5,
+        "word": "corticospinal"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 12.9,
+        "word": "pathway"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.9,
+        "word": "corticobulbar"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.8,
+        "word": "Pathway"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 16.3,
+        "word": "to"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 16.7,
+        "word": "control"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 16.8,
+        "word": "the"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 17.0,
+        "word": "expression"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.4,
+        "word": "of"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.9,
+        "word": "movement."
+      }
+    ],
+    "length": 17.900000000000006
+  },
+  {
+    "id": 14,
+    "start": 134.8,
+    "end": 141.3,
+    "text": "It makes great sense to want to control the motor division of the thalamus and that's what the basal ganglia do.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "It"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "makes"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "great"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "sense"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "to"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "want"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "to"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "control"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.0,
+        "word": "the"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "motor"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "division"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "of"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "the"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "thalamus"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.1,
+        "word": "and"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "that's"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "what"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.0,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "do."
+      }
+    ],
+    "length": 6.5
+  },
+  {
+    "id": 15,
+    "start": 141.3,
+    "end": 148.3,
+    "text": "So they play an important role in the initiation of voluntary movement the initiation of behavior.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "So"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "they"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "play"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "an"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "important"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.2,
+        "word": "role"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "in"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.9,
+        "word": "the"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.5,
+        "word": "initiation"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.3,
+        "word": "of"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.9,
+        "word": "voluntary"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.5,
+        "word": "movement"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.8,
+        "word": "the"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.3,
+        "word": "initiation"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.4,
+        "word": "of"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.0,
+        "word": "behavior."
+      }
+    ],
+    "length": 7.0
+  },
+  {
+    "id": 16,
+    "start": 148.3,
+    "end": 155.8,
+    "text": " And the suppression of behavior that is the suppression of movements that are inappropriate or unwanted.",
+    "words": [
+      {
+        "startTime": 0.7,
+        "endTime": 1.4,
+        "word": "And"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "the"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "suppression"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.9,
+        "word": "of"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.6,
+        "word": "behavior"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.1,
+        "word": "that"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "is"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "the"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.9,
+        "word": "suppression"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "of"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "movements"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "that"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "are"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "inappropriate"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.9,
+        "word": "or"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.5,
+        "word": "unwanted."
+      }
+    ],
+    "length": 7.5
+  },
+  {
+    "id": 17,
+    "start": 155.8,
+    "end": 167.2,
+    "text": "So keep these Concepts in mind as we work through this tutorial for basal ganglia are involved in the initiation of movement and the suppression of movement and we'll look at the details of how that happens.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "So"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "keep"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "these"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "Concepts"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "in"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "mind"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "as"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "we"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.9,
+        "word": "work"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "through"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "this"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "tutorial"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "for"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "basal"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.6,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.6,
+        "word": "are"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.9,
+        "word": "involved"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "in"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "the"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.5,
+        "word": "initiation"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.1,
+        "word": "of"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.6,
+        "word": "movement"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.2,
+        "word": "and"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.2,
+        "word": "the"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.6,
+        "word": "suppression"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.9,
+        "word": "of"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.5,
+        "word": "movement"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.0,
+        "word": "and"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.2,
+        "word": "we'll"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.3,
+        "word": "look"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.4,
+        "word": "at"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.6,
+        "word": "the"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.2,
+        "word": "details"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.5,
+        "word": "of"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.7,
+        "word": "how"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.9,
+        "word": "that"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.4,
+        "word": "happens."
+      }
+    ],
+    "length": 11.399999999999977
+  },
+  {
+    "id": 18,
+    "start": 167.2,
+    "end": 176.5,
+    "text": " Now we've encountered this concept of parallel Pathways numerous places so far in our studies of our sensory motor systems.",
+    "words": [
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "Now"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "we've"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.0,
+        "word": "encountered"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.4,
+        "word": "this"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.8,
+        "word": "concept"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "of"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "parallel"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.1,
+        "word": "Pathways"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.6,
+        "word": "numerous"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.9,
+        "word": "places"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.3,
+        "word": "so"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.3,
+        "word": "far"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.1,
+        "word": "in"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "our"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.7,
+        "word": "studies"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "of"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "our"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.5,
+        "word": "sensory"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.7,
+        "word": "motor"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.3,
+        "word": "systems."
+      }
+    ],
+    "length": 9.300000000000011
+  },
+  {
+    "id": 19,
+    "start": 176.5,
+    "end": 182.0,
+    "text": "So here's yet another example of parallel pathways through the brain in the basal ganglia.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.2,
+        "word": "here's"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "yet"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "another"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.0,
+        "word": "example"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "of"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "parallel"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.5,
+        "word": "pathways"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "through"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.8,
+        "word": "the"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "brain"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.0,
+        "word": "in"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.1,
+        "word": "the"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "basal"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "ganglia."
+      }
+    ],
+    "length": 5.5
+  },
+  {
+    "id": 20,
+    "start": 182.0,
+    "end": 195.6,
+    "text": "We tend to call these processing streams and what we really need are a set of parallel Pathways and have recognized actually quite a large number of processing streams that run through the basal ganglia.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "We"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "tend"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.8,
+        "word": "to"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "call"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "these"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.1,
+        "word": "processing"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.8,
+        "word": "streams"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "and"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "what"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "we"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "really"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "need"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.6,
+        "word": "are"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.8,
+        "word": "a"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "set"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "of"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "parallel"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.3,
+        "word": "Pathways"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.4,
+        "word": "and"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 8.2,
+        "word": "have"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.8,
+        "word": "recognized"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.3,
+        "word": "actually"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "quite"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "a"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "large"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.4,
+        "word": "number"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.9,
+        "word": "of"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.7,
+        "word": "processing"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.3,
+        "word": "streams"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.5,
+        "word": "that"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 12.7,
+        "word": "run"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.1,
+        "word": "through"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.1,
+        "word": "the"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.5,
+        "word": "basal"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.6,
+        "word": "ganglia."
+      }
+    ],
+    "length": 13.599999999999994
+  },
+  {
+    "id": 21,
+    "start": 195.6,
+    "end": 213.3,
+    "text": "So we don't need to worry about all of the various ways that an atom has some physiologist have recognized parallel processing streams rather we can focus on what's common about them and then recognize some key streams that we do want to focus on today.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.2,
+        "word": "So"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "we"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "don't"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "need"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "to"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "worry"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "about"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.9,
+        "word": "all"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 3.9,
+        "word": "of"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "the"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.6,
+        "word": "various"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.8,
+        "word": "ways"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.2,
+        "word": "that"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "an"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "atom"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "has"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "some"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.6,
+        "word": "physiologist"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.9,
+        "word": "have"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.5,
+        "word": "recognized"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "parallel"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.6,
+        "word": "processing"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.0,
+        "word": "streams"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 10.1,
+        "word": "rather"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "we"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.3,
+        "word": "can"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.6,
+        "word": "focus"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.1,
+        "word": "on"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.7,
+        "word": "what's"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.0,
+        "word": "common"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "about"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.6,
+        "word": "them"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.2,
+        "word": "and"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.3,
+        "word": "then"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 14.0,
+        "word": "recognize"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.9,
+        "word": "some"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.8,
+        "word": "key"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 16.4,
+        "word": "streams"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.5,
+        "word": "that"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.6,
+        "word": "we"
+      },
+      {
+        "startTime": 16.6,
+        "endTime": 16.8,
+        "word": "do"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 16.9,
+        "word": "want"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.0,
+        "word": "to"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.2,
+        "word": "focus"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.5,
+        "word": "on"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 17.7,
+        "word": "today."
+      }
+    ],
+    "length": 17.700000000000017
+  },
+  {
+    "id": 22,
+    "start": 213.3,
+    "end": 223.6,
+    "text": " So what's comment about them well for each of these processing streams, there's input from the cerebral cortex to the basal ganglia.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.7,
+        "word": "So"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "what's"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "comment"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "about"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "them"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.5,
+        "word": "well"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "for"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.0,
+        "word": "each"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "of"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "these"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 5.1,
+        "word": "processing"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.6,
+        "word": "streams,"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.3,
+        "word": "there's"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.9,
+        "word": "input"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.2,
+        "word": "from"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "the"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.9,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "cortex"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 9.7,
+        "word": "to"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "the"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.3,
+        "word": "basal"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.3,
+        "word": "ganglia."
+      }
+    ],
+    "length": 10.299999999999983
+  },
+  {
+    "id": 23,
+    "start": 223.6,
+    "end": 231.9,
+    "text": "So the basal ganglia occupy these two middle layers in this schematic drawing.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.3,
+        "word": "So"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 2.4,
+        "word": "the"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "basal"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.8,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.9,
+        "word": "occupy"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 5.0,
+        "word": "these"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.5,
+        "word": "two"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.1,
+        "word": "middle"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.8,
+        "word": "layers"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.0,
+        "word": "in"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.3,
+        "word": "this"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.5,
+        "word": "schematic"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.3,
+        "word": "drawing."
+      }
+    ],
+    "length": 8.300000000000011
+  },
+  {
+    "id": 24,
+    "start": 231.9,
+    "end": 237.4,
+    "text": "There is a division of the basal ganglia out that we call striatum for anatomical reasons.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "There"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "is"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "a"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "division"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "of"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "the"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.0,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.5,
+        "word": "out"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "that"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "we"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "call"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 4.0,
+        "word": "striatum"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "for"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "anatomical"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.5,
+        "word": "reasons."
+      }
+    ],
+    "length": 5.5
+  },
+  {
+    "id": 25,
+    "start": 237.4,
+    "end": 240.1,
+    "text": "That's what shown here in this orange color.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "That's"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "what"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "shown"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "here"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "in"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "this"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "orange"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "color."
+      }
+    ],
+    "length": 2.6999999999999886
+  },
+  {
+    "id": 26,
+    "start": 240.1,
+    "end": 247.3,
+    "text": "And then there is a division called the palladum also for anatomical reasons that shown in this purple color.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "And"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "then"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "there"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "is"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "a"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "division"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.8,
+        "word": "called"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "the"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.6,
+        "word": "palladum"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.4,
+        "word": "also"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "for"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.9,
+        "word": "anatomical"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.6,
+        "word": "reasons"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "that"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.1,
+        "word": "shown"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "in"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "this"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.9,
+        "word": "purple"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.2,
+        "word": "color."
+      }
+    ],
+    "length": 7.200000000000017
+  },
+  {
+    "id": 27,
+    "start": 247.3,
+    "end": 264.3,
+    "text": "So the striatum projects to the palladum that's fundamentally the intrinsic circuitry of the basal ganglia that we want to come to understand and then they output from the basal ganglia is provided by the palladum.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "So"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.9,
+        "word": "the"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 3.1,
+        "word": "striatum"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.8,
+        "word": "projects"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "to"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "the"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "palladum"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 6.0,
+        "word": "that's"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.9,
+        "word": "fundamentally"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.4,
+        "word": "the"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.9,
+        "word": "intrinsic"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.6,
+        "word": "circuitry"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.6,
+        "word": "of"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.8,
+        "word": "the"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "basal"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.6,
+        "word": "that"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.8,
+        "word": "we"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.0,
+        "word": "want"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.0,
+        "word": "to"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.2,
+        "word": "come"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.3,
+        "word": "to"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.9,
+        "word": "understand"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 12.1,
+        "word": "and"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.2,
+        "word": "then"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.3,
+        "word": "they"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.9,
+        "word": "output"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.1,
+        "word": "from"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.2,
+        "word": "the"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.5,
+        "word": "basal"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.6,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 15.1,
+        "word": "is"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 16.1,
+        "word": "provided"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 16.2,
+        "word": "by"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.4,
+        "word": "the"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 17.0,
+        "word": "palladum."
+      }
+    ],
+    "length": 17.0
+  },
+  {
+    "id": 28,
+    "start": 264.3,
+    "end": 269.1,
+    "text": "And again that output doesn't go directly back to the cerebral cortex rather.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "And"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "again"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "that"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.4,
+        "word": "output"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "doesn't"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "go"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "directly"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "back"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "to"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "the"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.3,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "cortex"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.8,
+        "word": "rather."
+      }
+    ],
+    "length": 4.800000000000011
+  },
+  {
+    "id": 29,
+    "start": 269.1,
+    "end": 271.6,
+    "text": "It goes back to some division of the thalamus.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "It"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "goes"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "back"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "to"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.4,
+        "word": "some"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.9,
+        "word": "division"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "of"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.1,
+        "word": "the"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "thalamus."
+      }
+    ],
+    "length": 2.5
+  },
+  {
+    "id": 30,
+    "start": 271.6,
+    "end": 274.2,
+    "text": "So for example our",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "So"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "for"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "example"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 2.6,
+        "word": "our"
+      }
+    ],
+    "length": 2.599999999999966
+  },
+  {
+    "id": 31,
+    "start": 274.2,
+    "end": 276.1,
+    "text": " Motor processing stream.",
+    "words": [
+      {
+        "startTime": 0.3,
+        "endTime": 0.6,
+        "word": "Motor"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.0,
+        "word": "processing"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.9,
+        "word": "stream."
+      }
+    ],
+    "length": 1.900000000000034
+  },
+  {
+    "id": 32,
+    "start": 276.1,
+    "end": 278.7,
+    "text": "Sometimes we call these Loops.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "Sometimes"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "we"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "call"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "these"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.6,
+        "word": "Loops."
+      }
+    ],
+    "length": 2.599999999999966
+  },
+  {
+    "id": 33,
+    "start": 278.7,
+    "end": 284.4,
+    "text": "Because they begin in the cortex and they ultimately come back to impact activity in the cortex.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "Because"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.7,
+        "word": "they"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.1,
+        "word": "begin"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "in"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "the"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "cortex"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "and"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "they"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "ultimately"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.6,
+        "word": "come"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.9,
+        "word": "back"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "to"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.6,
+        "word": "impact"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "activity"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "in"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.2,
+        "word": "the"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "cortex."
+      }
+    ],
+    "length": 5.699999999999989
+  },
+  {
+    "id": 34,
+    "start": 284.4,
+    "end": 297.4,
+    "text": "So our Loop for body movement is derived from cortical inputs that converge from a widespread region of the cerebral cortex into the basal ganglia.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "So"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "our"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.6,
+        "word": "Loop"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "for"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.5,
+        "word": "body"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.7,
+        "word": "movement"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.7,
+        "word": "is"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.4,
+        "word": "derived"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "from"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 6.0,
+        "word": "cortical"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.6,
+        "word": "inputs"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.3,
+        "word": "that"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.2,
+        "word": "converge"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.5,
+        "word": "from"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.7,
+        "word": "a"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.2,
+        "word": "widespread"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.9,
+        "word": "region"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "of"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "the"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.5,
+        "word": "cortex"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 12.2,
+        "word": "into"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.5,
+        "word": "the"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 13.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.0,
+        "word": "ganglia."
+      }
+    ],
+    "length": 13.0
+  },
+  {
+    "id": 35,
+    "start": 297.4,
+    "end": 325.4,
+    "text": "So here's the cortical input coming into a part of the basal ganglia that we call the putamen and that division are to destroy them then send signals into the Globus pallidus another part of the basal ganglia that's representative of this layer of tissue and a processing that we call the palladum the Globus pallidus and turn for Jack's to the motor Thalamus ventral anterior ventral lateral complex.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "So"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "here's"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "the"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "cortical"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "input"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "coming"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "into"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.0,
+        "word": "a"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.4,
+        "word": "part"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.4,
+        "word": "of"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "the"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.9,
+        "word": "basal"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 3.9,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.4,
+        "word": "that"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "we"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.8,
+        "word": "call"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.9,
+        "word": "the"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.3,
+        "word": "putamen"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.3,
+        "word": "and"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.7,
+        "word": "that"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.2,
+        "word": "division"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.8,
+        "word": "are"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "to"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "destroy"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.5,
+        "word": "them"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.9,
+        "word": "then"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "send"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 10.0,
+        "word": "signals"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.4,
+        "word": "into"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 11.1,
+        "word": "the"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.5,
+        "word": "Globus"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.6,
+        "word": "pallidus"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 13.1,
+        "word": "another"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.7,
+        "word": "part"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 13.8,
+        "word": "of"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 13.9,
+        "word": "the"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.3,
+        "word": "basal"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.3,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 15.1,
+        "word": "that's"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 16.0,
+        "word": "representative"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.2,
+        "word": "of"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.4,
+        "word": "this"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.9,
+        "word": "layer"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.4,
+        "word": "of"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.6,
+        "word": "tissue"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 18.2,
+        "word": "and"
+      },
+      {
+        "startTime": 18.2,
+        "endTime": 18.4,
+        "word": "a"
+      },
+      {
+        "startTime": 18.4,
+        "endTime": 19.0,
+        "word": "processing"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 19.1,
+        "word": "that"
+      },
+      {
+        "startTime": 19.1,
+        "endTime": 19.2,
+        "word": "we"
+      },
+      {
+        "startTime": 19.2,
+        "endTime": 19.4,
+        "word": "call"
+      },
+      {
+        "startTime": 19.4,
+        "endTime": 19.5,
+        "word": "the"
+      },
+      {
+        "startTime": 19.5,
+        "endTime": 20.1,
+        "word": "palladum"
+      },
+      {
+        "startTime": 20.1,
+        "endTime": 20.8,
+        "word": "the"
+      },
+      {
+        "startTime": 20.8,
+        "endTime": 21.2,
+        "word": "Globus"
+      },
+      {
+        "startTime": 21.2,
+        "endTime": 21.4,
+        "word": "pallidus"
+      },
+      {
+        "startTime": 21.4,
+        "endTime": 21.9,
+        "word": "and"
+      },
+      {
+        "startTime": 21.9,
+        "endTime": 22.3,
+        "word": "turn"
+      },
+      {
+        "startTime": 22.3,
+        "endTime": 22.7,
+        "word": "for"
+      },
+      {
+        "startTime": 22.7,
+        "endTime": 23.1,
+        "word": "Jack's"
+      },
+      {
+        "startTime": 23.1,
+        "endTime": 23.2,
+        "word": "to"
+      },
+      {
+        "startTime": 23.2,
+        "endTime": 23.5,
+        "word": "the"
+      },
+      {
+        "startTime": 23.5,
+        "endTime": 23.7,
+        "word": "motor"
+      },
+      {
+        "startTime": 23.7,
+        "endTime": 24.3,
+        "word": "Thalamus"
+      },
+      {
+        "startTime": 24.3,
+        "endTime": 25.6,
+        "word": "ventral"
+      },
+      {
+        "startTime": 25.6,
+        "endTime": 26.1,
+        "word": "anterior"
+      },
+      {
+        "startTime": 26.1,
+        "endTime": 26.9,
+        "word": "ventral"
+      },
+      {
+        "startTime": 26.9,
+        "endTime": 27.2,
+        "word": "lateral"
+      },
+      {
+        "startTime": 27.2,
+        "endTime": 28.0,
+        "word": "complex."
+      }
+    ],
+    "length": 28.0
+  },
+  {
+    "id": 36,
+    "start": 325.4,
+    "end": 340.8,
+    "text": " And the motorcycle and it's finally send signals into the motor cortex that can either trigger the initiation of movement or depending upon the physiology of the basal ganglia suppress unwanted movements.",
+    "words": [
+      {
+        "startTime": 0.6,
+        "endTime": 1.1,
+        "word": "And"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.1,
+        "word": "the"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "motorcycle"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "and"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "it's"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "finally"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.1,
+        "word": "send"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.7,
+        "word": "signals"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.7,
+        "word": "into"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.0,
+        "word": "the"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.8,
+        "word": "motor"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.2,
+        "word": "cortex"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.9,
+        "word": "that"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.4,
+        "word": "can"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.7,
+        "word": "either"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.3,
+        "word": "trigger"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.5,
+        "word": "the"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.1,
+        "word": "initiation"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "of"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.8,
+        "word": "movement"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.5,
+        "word": "or"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.3,
+        "word": "depending"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.4,
+        "word": "upon"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.6,
+        "word": "the"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 12.3,
+        "word": "physiology"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.3,
+        "word": "of"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.4,
+        "word": "the"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.7,
+        "word": "basal"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.8,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 14.2,
+        "word": "suppress"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.8,
+        "word": "unwanted"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.4,
+        "word": "movements."
+      }
+    ],
+    "length": 15.400000000000034
+  },
+  {
+    "id": 37,
+    "start": 340.8,
+    "end": 377.7,
+    "text": " So the same kind of theme of Cortex to striatum striatum to pallidum pallidum to Thalamus and then tell him is back up to Cortex is repeated in each of these processes streams and we have something of a simplified do you in front of us where we simply recognize that there are motor Loops or motor processing streams and non-motor Loops the motor Loops concern movements of the body and there seems to be a dedicated processing stream for movements of the eyes and on the non-motor side.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "So"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "the"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "same"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "kind"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.6,
+        "word": "of"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.1,
+        "word": "theme"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "of"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 4.0,
+        "word": "Cortex"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "to"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.8,
+        "word": "striatum"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.8,
+        "word": "striatum"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "to"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.6,
+        "word": "pallidum"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.4,
+        "word": "pallidum"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "to"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.9,
+        "word": "Thalamus"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.6,
+        "word": "and"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.9,
+        "word": "then"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.1,
+        "word": "tell"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "him"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.4,
+        "word": "is"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 10.2,
+        "word": "back"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.4,
+        "word": "up"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "to"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.2,
+        "word": "Cortex"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.5,
+        "word": "is"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 12.1,
+        "word": "repeated"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.1,
+        "word": "in"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.4,
+        "word": "each"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.6,
+        "word": "of"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 12.7,
+        "word": "these"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.0,
+        "word": "processes"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.9,
+        "word": "streams"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.9,
+        "word": "and"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.2,
+        "word": "we"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.5,
+        "word": "have"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 16.1,
+        "word": "something"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 16.3,
+        "word": "of"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 16.4,
+        "word": "a"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 17.1,
+        "word": "simplified"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.2,
+        "word": "do"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.3,
+        "word": "you"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.4,
+        "word": "in"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.6,
+        "word": "front"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 17.7,
+        "word": "of"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 17.9,
+        "word": "us"
+      },
+      {
+        "startTime": 17.9,
+        "endTime": 18.1,
+        "word": "where"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 18.2,
+        "word": "we"
+      },
+      {
+        "startTime": 18.2,
+        "endTime": 18.5,
+        "word": "simply"
+      },
+      {
+        "startTime": 18.5,
+        "endTime": 19.2,
+        "word": "recognize"
+      },
+      {
+        "startTime": 19.2,
+        "endTime": 19.7,
+        "word": "that"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 20.0,
+        "word": "there"
+      },
+      {
+        "startTime": 20.0,
+        "endTime": 20.2,
+        "word": "are"
+      },
+      {
+        "startTime": 20.2,
+        "endTime": 20.5,
+        "word": "motor"
+      },
+      {
+        "startTime": 20.5,
+        "endTime": 20.9,
+        "word": "Loops"
+      },
+      {
+        "startTime": 20.9,
+        "endTime": 21.1,
+        "word": "or"
+      },
+      {
+        "startTime": 21.1,
+        "endTime": 21.4,
+        "word": "motor"
+      },
+      {
+        "startTime": 21.4,
+        "endTime": 21.7,
+        "word": "processing"
+      },
+      {
+        "startTime": 21.7,
+        "endTime": 22.5,
+        "word": "streams"
+      },
+      {
+        "startTime": 22.5,
+        "endTime": 23.4,
+        "word": "and"
+      },
+      {
+        "startTime": 23.4,
+        "endTime": 24.1,
+        "word": "non-motor"
+      },
+      {
+        "startTime": 24.1,
+        "endTime": 24.5,
+        "word": "Loops"
+      },
+      {
+        "startTime": 24.5,
+        "endTime": 25.1,
+        "word": "the"
+      },
+      {
+        "startTime": 25.1,
+        "endTime": 25.5,
+        "word": "motor"
+      },
+      {
+        "startTime": 25.5,
+        "endTime": 25.9,
+        "word": "Loops"
+      },
+      {
+        "startTime": 25.9,
+        "endTime": 26.6,
+        "word": "concern"
+      },
+      {
+        "startTime": 26.6,
+        "endTime": 27.2,
+        "word": "movements"
+      },
+      {
+        "startTime": 27.2,
+        "endTime": 27.3,
+        "word": "of"
+      },
+      {
+        "startTime": 27.3,
+        "endTime": 28.1,
+        "word": "the"
+      },
+      {
+        "startTime": 28.1,
+        "endTime": 28.2,
+        "word": "body"
+      },
+      {
+        "startTime": 28.2,
+        "endTime": 29.3,
+        "word": "and"
+      },
+      {
+        "startTime": 29.3,
+        "endTime": 29.7,
+        "word": "there"
+      },
+      {
+        "startTime": 29.7,
+        "endTime": 30.1,
+        "word": "seems"
+      },
+      {
+        "startTime": 30.1,
+        "endTime": 30.1,
+        "word": "to"
+      },
+      {
+        "startTime": 30.1,
+        "endTime": 30.2,
+        "word": "be"
+      },
+      {
+        "startTime": 30.2,
+        "endTime": 30.6,
+        "word": "a"
+      },
+      {
+        "startTime": 30.6,
+        "endTime": 31.0,
+        "word": "dedicated"
+      },
+      {
+        "startTime": 31.0,
+        "endTime": 32.4,
+        "word": "processing"
+      },
+      {
+        "startTime": 32.4,
+        "endTime": 32.9,
+        "word": "stream"
+      },
+      {
+        "startTime": 32.9,
+        "endTime": 33.1,
+        "word": "for"
+      },
+      {
+        "startTime": 33.1,
+        "endTime": 33.5,
+        "word": "movements"
+      },
+      {
+        "startTime": 33.5,
+        "endTime": 33.6,
+        "word": "of"
+      },
+      {
+        "startTime": 33.6,
+        "endTime": 33.7,
+        "word": "the"
+      },
+      {
+        "startTime": 33.7,
+        "endTime": 33.9,
+        "word": "eyes"
+      },
+      {
+        "startTime": 33.9,
+        "endTime": 35.4,
+        "word": "and"
+      },
+      {
+        "startTime": 35.4,
+        "endTime": 35.7,
+        "word": "on"
+      },
+      {
+        "startTime": 35.7,
+        "endTime": 35.8,
+        "word": "the"
+      },
+      {
+        "startTime": 35.8,
+        "endTime": 36.5,
+        "word": "non-motor"
+      },
+      {
+        "startTime": 36.5,
+        "endTime": 36.9,
+        "word": "side."
+      }
+    ],
+    "length": 36.89999999999998
+  },
+  {
+    "id": 38,
+    "start": 377.7,
+    "end": 387.6,
+    "text": " We can recognize a loop that is concerned with the functions of the prefrontal cortex or talk about in a few tutorials.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.6,
+        "word": "We"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "can"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.5,
+        "word": "recognize"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.0,
+        "word": "a"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.6,
+        "word": "loop"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "that"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "is"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.9,
+        "word": "concerned"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "with"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 6.1,
+        "word": "the"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.7,
+        "word": "functions"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.8,
+        "word": "of"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "the"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.2,
+        "word": "prefrontal"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "cortex"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.2,
+        "word": "or"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.5,
+        "word": "talk"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.6,
+        "word": "about"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.0,
+        "word": "in"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.0,
+        "word": "a"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.0,
+        "word": "few"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.9,
+        "word": "tutorials."
+      }
+    ],
+    "length": 9.900000000000034
+  },
+  {
+    "id": 39,
+    "start": 387.6,
+    "end": 403.7,
+    "text": "Let's Plays an executive functioning Rule and cognition and they are processing streams that seemed to involve Olympic parts of the forebrain and these are brain regions that are involved in the experience and expression of emotion.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "Let's"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "Plays"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "an"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.2,
+        "word": "executive"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.7,
+        "word": "functioning"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "Rule"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.7,
+        "word": "and"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.4,
+        "word": "cognition"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.4,
+        "word": "and"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "they"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "are"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.3,
+        "word": "processing"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.9,
+        "word": "streams"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "that"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.4,
+        "word": "seemed"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "to"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "involve"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 9.2,
+        "word": "Olympic"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.6,
+        "word": "parts"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "of"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.7,
+        "word": "the"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "forebrain"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 11.0,
+        "word": "and"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.4,
+        "word": "these"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.5,
+        "word": "are"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.9,
+        "word": "brain"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.5,
+        "word": "regions"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 12.7,
+        "word": "that"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.8,
+        "word": "are"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 13.1,
+        "word": "involved"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.5,
+        "word": "in"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.6,
+        "word": "the"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 14.2,
+        "word": "experience"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.6,
+        "word": "and"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.3,
+        "word": "expression"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.6,
+        "word": "of"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 16.1,
+        "word": "emotion."
+      }
+    ],
+    "length": 16.099999999999966
+  },
+  {
+    "id": 40,
+    "start": 403.7,
+    "end": 423.4,
+    "text": "So the loops are primarily defined by the anatomical inputs from the cerebral cortex and the kinds of functions that are carried out by those cortical areas that receive the feedback that comes from the thalamus after being modulated by the basal ganglia.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.2,
+        "word": "So"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "the"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "loops"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "are"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.4,
+        "word": "primarily"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.7,
+        "word": "defined"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 4.0,
+        "word": "by"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.6,
+        "word": "anatomical"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.2,
+        "word": "inputs"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "from"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "the"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.0,
+        "word": "cerebral"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "cortex"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 8.2,
+        "word": "and"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "the"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.7,
+        "word": "kinds"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "of"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "functions"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.9,
+        "word": "that"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "are"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.5,
+        "word": "carried"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.6,
+        "word": "out"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.2,
+        "word": "by"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.5,
+        "word": "those"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 12.1,
+        "word": "cortical"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.7,
+        "word": "areas"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.1,
+        "word": "that"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.5,
+        "word": "receive"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.3,
+        "word": "the"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 15.1,
+        "word": "feedback"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "that"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 16.0,
+        "word": "comes"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.1,
+        "word": "from"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 16.3,
+        "word": "the"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 16.5,
+        "word": "thalamus"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 17.6,
+        "word": "after"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 18.0,
+        "word": "being"
+      },
+      {
+        "startTime": 18.0,
+        "endTime": 18.4,
+        "word": "modulated"
+      },
+      {
+        "startTime": 18.4,
+        "endTime": 18.9,
+        "word": "by"
+      },
+      {
+        "startTime": 18.9,
+        "endTime": 19.2,
+        "word": "the"
+      },
+      {
+        "startTime": 19.2,
+        "endTime": 19.6,
+        "word": "basal"
+      },
+      {
+        "startTime": 19.6,
+        "endTime": 19.7,
+        "word": "ganglia."
+      }
+    ],
+    "length": 19.69999999999999
+  },
+  {
+    "id": 41,
+    "start": 423.4,
+    "end": 425.2,
+    "text": " So we can tonight.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "So"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.5,
+        "word": "we"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "can"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "tonight."
+      }
+    ],
+    "length": 1.8000000000000114
+  },
+  {
+    "id": 42,
+    "start": 425.2,
+    "end": 445.5,
+    "text": "I would encourage you by saying don't worry about the complexity of this figure just understand the point that there are parallel processing streams that are concerned with the initiation and suppression of movement in one domain of physical action or mental action or emotional action or another.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.3,
+        "word": "I"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.4,
+        "word": "would"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.7,
+        "word": "encourage"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "you"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "by"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "saying"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "don't"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "worry"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "about"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "the"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.0,
+        "word": "complexity"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "of"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "this"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "figure"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.6,
+        "word": "just"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.4,
+        "word": "understand"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.5,
+        "word": "the"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "point"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.0,
+        "word": "that"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "there"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "are"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.2,
+        "word": "parallel"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.8,
+        "word": "processing"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.4,
+        "word": "streams"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 9.0,
+        "word": "that"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "are"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.7,
+        "word": "concerned"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.8,
+        "word": "with"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.0,
+        "word": "the"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.6,
+        "word": "initiation"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.4,
+        "word": "and"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 12.2,
+        "word": "suppression"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.6,
+        "word": "of"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.5,
+        "word": "movement"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.1,
+        "word": "in"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.5,
+        "word": "one"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.7,
+        "word": "domain"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 15.4,
+        "word": "of"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 16.1,
+        "word": "physical"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 16.6,
+        "word": "action"
+      },
+      {
+        "startTime": 16.6,
+        "endTime": 17.3,
+        "word": "or"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.8,
+        "word": "mental"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.3,
+        "word": "action"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.7,
+        "word": "or"
+      },
+      {
+        "startTime": 18.7,
+        "endTime": 19.3,
+        "word": "emotional"
+      },
+      {
+        "startTime": 19.3,
+        "endTime": 19.7,
+        "word": "action"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 19.9,
+        "word": "or"
+      },
+      {
+        "startTime": 19.9,
+        "endTime": 20.3,
+        "word": "another."
+      }
+    ],
+    "length": 20.30000000000001
+  },
+  {
+    "id": 43,
+    "start": 445.5,
+    "end": 482.7,
+    "text": "Well one important means by which we come to understand the functions of the basal ganglia in the normal human brain has been based on studies of individuals that have had disease or disorder in the circuitry of the basal ganglia and so by understanding a neurobiological framework of disease in the basal ganglia, we've gained considerable insight into the normal functions of these parts of the brain, so we will take some time and this tutorial to consider a two major classes of movement disorder that relate to basal ganglia function.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "Well"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.4,
+        "word": "one"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.2,
+        "word": "important"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.9,
+        "word": "means"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "by"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.4,
+        "word": "which"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "we"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "come"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "to"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.6,
+        "word": "understand"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.6,
+        "word": "the"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.2,
+        "word": "functions"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.3,
+        "word": "of"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.4,
+        "word": "the"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "basal"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.8,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.5,
+        "word": "in"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.6,
+        "word": "the"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.1,
+        "word": "normal"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.4,
+        "word": "human"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.8,
+        "word": "brain"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.4,
+        "word": "has"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "been"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.9,
+        "word": "based"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.2,
+        "word": "on"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.6,
+        "word": "studies"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.1,
+        "word": "of"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.9,
+        "word": "individuals"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.2,
+        "word": "that"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.3,
+        "word": "have"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.7,
+        "word": "had"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.6,
+        "word": "disease"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.2,
+        "word": "or"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.4,
+        "word": "disorder"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 14.0,
+        "word": "in"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.1,
+        "word": "the"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.6,
+        "word": "circuitry"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.7,
+        "word": "of"
+      },
+      {
+        "startTime": 14.7,
+        "endTime": 14.9,
+        "word": "the"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.2,
+        "word": "basal"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.2,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 16.5,
+        "word": "and"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 16.9,
+        "word": "so"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.1,
+        "word": "by"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 18.3,
+        "word": "understanding"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 19.0,
+        "word": "a"
+      },
+      {
+        "startTime": 19.0,
+        "endTime": 19.7,
+        "word": "neurobiological"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 21.0,
+        "word": "framework"
+      },
+      {
+        "startTime": 21.0,
+        "endTime": 21.1,
+        "word": "of"
+      },
+      {
+        "startTime": 21.1,
+        "endTime": 21.5,
+        "word": "disease"
+      },
+      {
+        "startTime": 21.5,
+        "endTime": 21.7,
+        "word": "in"
+      },
+      {
+        "startTime": 21.7,
+        "endTime": 21.8,
+        "word": "the"
+      },
+      {
+        "startTime": 21.8,
+        "endTime": 22.1,
+        "word": "basal"
+      },
+      {
+        "startTime": 22.1,
+        "endTime": 22.1,
+        "word": "ganglia,"
+      },
+      {
+        "startTime": 22.1,
+        "endTime": 22.8,
+        "word": "we've"
+      },
+      {
+        "startTime": 22.8,
+        "endTime": 23.1,
+        "word": "gained"
+      },
+      {
+        "startTime": 23.1,
+        "endTime": 23.4,
+        "word": "considerable"
+      },
+      {
+        "startTime": 23.4,
+        "endTime": 24.4,
+        "word": "insight"
+      },
+      {
+        "startTime": 24.4,
+        "endTime": 24.9,
+        "word": "into"
+      },
+      {
+        "startTime": 24.9,
+        "endTime": 25.1,
+        "word": "the"
+      },
+      {
+        "startTime": 25.1,
+        "endTime": 25.4,
+        "word": "normal"
+      },
+      {
+        "startTime": 25.4,
+        "endTime": 26.0,
+        "word": "functions"
+      },
+      {
+        "startTime": 26.0,
+        "endTime": 26.5,
+        "word": "of"
+      },
+      {
+        "startTime": 26.5,
+        "endTime": 26.7,
+        "word": "these"
+      },
+      {
+        "startTime": 26.7,
+        "endTime": 27.0,
+        "word": "parts"
+      },
+      {
+        "startTime": 27.0,
+        "endTime": 27.1,
+        "word": "of"
+      },
+      {
+        "startTime": 27.1,
+        "endTime": 27.2,
+        "word": "the"
+      },
+      {
+        "startTime": 27.2,
+        "endTime": 27.6,
+        "word": "brain,"
+      },
+      {
+        "startTime": 27.6,
+        "endTime": 28.4,
+        "word": "so"
+      },
+      {
+        "startTime": 28.4,
+        "endTime": 28.9,
+        "word": "we"
+      },
+      {
+        "startTime": 28.9,
+        "endTime": 29.1,
+        "word": "will"
+      },
+      {
+        "startTime": 29.1,
+        "endTime": 29.4,
+        "word": "take"
+      },
+      {
+        "startTime": 29.4,
+        "endTime": 29.7,
+        "word": "some"
+      },
+      {
+        "startTime": 29.7,
+        "endTime": 29.7,
+        "word": "time"
+      },
+      {
+        "startTime": 29.7,
+        "endTime": 30.2,
+        "word": "and"
+      },
+      {
+        "startTime": 30.2,
+        "endTime": 30.4,
+        "word": "this"
+      },
+      {
+        "startTime": 30.4,
+        "endTime": 30.8,
+        "word": "tutorial"
+      },
+      {
+        "startTime": 30.8,
+        "endTime": 31.7,
+        "word": "to"
+      },
+      {
+        "startTime": 31.7,
+        "endTime": 32.2,
+        "word": "consider"
+      },
+      {
+        "startTime": 32.2,
+        "endTime": 32.8,
+        "word": "a"
+      },
+      {
+        "startTime": 32.8,
+        "endTime": 33.1,
+        "word": "two"
+      },
+      {
+        "startTime": 33.1,
+        "endTime": 33.6,
+        "word": "major"
+      },
+      {
+        "startTime": 33.6,
+        "endTime": 34.3,
+        "word": "classes"
+      },
+      {
+        "startTime": 34.3,
+        "endTime": 34.4,
+        "word": "of"
+      },
+      {
+        "startTime": 34.4,
+        "endTime": 34.9,
+        "word": "movement"
+      },
+      {
+        "startTime": 34.9,
+        "endTime": 35.1,
+        "word": "disorder"
+      },
+      {
+        "startTime": 35.1,
+        "endTime": 35.8,
+        "word": "that"
+      },
+      {
+        "startTime": 35.8,
+        "endTime": 36.2,
+        "word": "relate"
+      },
+      {
+        "startTime": 36.2,
+        "endTime": 36.3,
+        "word": "to"
+      },
+      {
+        "startTime": 36.3,
+        "endTime": 36.7,
+        "word": "basal"
+      },
+      {
+        "startTime": 36.7,
+        "endTime": 37.1,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 37.1,
+        "endTime": 37.2,
+        "word": "function."
+      }
+    ],
+    "length": 37.19999999999999
+  },
+  {
+    "id": 44,
+    "start": 482.7,
+    "end": 492.5,
+    "text": " As you come to see we will recognize a category of movement disorder where the problem is not enough Movement.",
+    "words": [
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "As"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "you"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "come"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "to"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "see"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 4.0,
+        "word": "we"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "will"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.7,
+        "word": "recognize"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.3,
+        "word": "a"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.0,
+        "word": "category"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "of"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.6,
+        "word": "movement"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.9,
+        "word": "disorder"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.7,
+        "word": "where"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.7,
+        "word": "the"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.2,
+        "word": "problem"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "is"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 9.1,
+        "word": "not"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.5,
+        "word": "enough"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.8,
+        "word": "Movement."
+      }
+    ],
+    "length": 9.800000000000011
+  },
+  {
+    "id": 45,
+    "start": 492.5,
+    "end": 509.5,
+    "text": "We call these hypokinetic movement disorders and the chief representative in this category would be parkinsonism and will come to understand parkinsonism as primarily a failure to initiate voluntary movement.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "We"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.6,
+        "word": "call"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "these"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 2.2,
+        "word": "hypokinetic"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.9,
+        "word": "movement"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.5,
+        "word": "disorders"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.4,
+        "word": "and"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.4,
+        "word": "the"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "chief"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.4,
+        "word": "representative"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 6.3,
+        "word": "in"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "this"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.9,
+        "word": "category"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.5,
+        "word": "would"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "be"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.7,
+        "word": "parkinsonism"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.9,
+        "word": "and"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.1,
+        "word": "will"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.3,
+        "word": "come"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.4,
+        "word": "to"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 11.0,
+        "word": "understand"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.9,
+        "word": "parkinsonism"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.8,
+        "word": "as"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 13.4,
+        "word": "primarily"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 13.7,
+        "word": "a"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.3,
+        "word": "failure"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 15.0,
+        "word": "to"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.6,
+        "word": "initiate"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 16.1,
+        "word": "voluntary"
+      },
+      {
+        "startTime": 16.1,
+        "endTime": 17.0,
+        "word": "movement."
+      }
+    ],
+    "length": 17.0
+  },
+  {
+    "id": 46,
+    "start": 509.5,
+    "end": 521.2,
+    "text": " Of course, there is much more to this clinical picture than just this but for our purposes focusing on the role of the basal ganglia parkinsonism is a failure of initiation.",
+    "words": [
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "Of"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "course,"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "there"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "much"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "more"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.7,
+        "word": "to"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "this"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.8,
+        "word": "clinical"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "picture"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "than"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "just"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 4.9,
+        "word": "this"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.3,
+        "word": "but"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.5,
+        "word": "for"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "our"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "purposes"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 7.1,
+        "word": "focusing"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "on"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "the"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.5,
+        "word": "role"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.6,
+        "word": "of"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.7,
+        "word": "the"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.0,
+        "word": "basal"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.1,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 10.2,
+        "word": "parkinsonism"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.4,
+        "word": "is"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "a"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.8,
+        "word": "failure"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.1,
+        "word": "of"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.7,
+        "word": "initiation."
+      }
+    ],
+    "length": 11.700000000000045
+  },
+  {
+    "id": 47,
+    "start": 521.2,
+    "end": 529.6,
+    "text": " On the other end of the spectrum there are hyperkinetic movement disorders.",
+    "words": [
+      {
+        "startTime": 3.3,
+        "endTime": 3.7,
+        "word": "On"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "the"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "other"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "end"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "of"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "the"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "spectrum"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.8,
+        "word": "there"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "are"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 7.3,
+        "word": "hyperkinetic"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "movement"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.4,
+        "word": "disorders."
+      }
+    ],
+    "length": 8.399999999999977
+  },
+  {
+    "id": 48,
+    "start": 529.6,
+    "end": 551.2,
+    "text": "So these are disorders that are represented by Huntington disease and by other kinds of disorders that result in the expression of unwanted movement so we can think of these disorders in terms of the basal ganglia as a failure to suppress unwanted movement.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.5,
+        "word": "So"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.8,
+        "word": "these"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.9,
+        "word": "are"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.7,
+        "word": "disorders"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "that"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "are"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 3.7,
+        "word": "represented"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "by"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.9,
+        "word": "Huntington"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.5,
+        "word": "disease"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.9,
+        "word": "and"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "by"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 7.3,
+        "word": "other"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.8,
+        "word": "kinds"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "of"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 9.1,
+        "word": "disorders"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.7,
+        "word": "that"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "result"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.4,
+        "word": "in"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.6,
+        "word": "the"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.1,
+        "word": "expression"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.8,
+        "word": "of"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.8,
+        "word": "unwanted"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 13.4,
+        "word": "movement"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 14.0,
+        "word": "so"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.2,
+        "word": "we"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.4,
+        "word": "can"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.6,
+        "word": "think"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.8,
+        "word": "of"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.0,
+        "word": "these"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.2,
+        "word": "disorders"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 16.6,
+        "word": "in"
+      },
+      {
+        "startTime": 16.6,
+        "endTime": 16.7,
+        "word": "terms"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 17.0,
+        "word": "of"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 17.1,
+        "word": "the"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.5,
+        "word": "basal"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 17.5,
+        "word": "ganglia"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 18.6,
+        "word": "as"
+      },
+      {
+        "startTime": 18.6,
+        "endTime": 18.7,
+        "word": "a"
+      },
+      {
+        "startTime": 18.7,
+        "endTime": 19.3,
+        "word": "failure"
+      },
+      {
+        "startTime": 19.3,
+        "endTime": 19.7,
+        "word": "to"
+      },
+      {
+        "startTime": 19.7,
+        "endTime": 20.3,
+        "word": "suppress"
+      },
+      {
+        "startTime": 20.3,
+        "endTime": 21.1,
+        "word": "unwanted"
+      },
+      {
+        "startTime": 21.1,
+        "endTime": 21.6,
+        "word": "movement."
+      }
+    ],
+    "length": 21.600000000000023
+  },
+  {
+    "id": 49,
+    "start": 551.2,
+    "end": 581.2,
+    "text": " Now what's been very exciting in recent years is the possibility that this concept of hypokinetic disorder and hyperkinetic disorder might also apply to some of these non-motor Loops that are running through the basal ganglia, perhaps various effective and cognitive disorders reflect either a failure to initiate a particular behavioral program or failure to suppress an inappropriate behavioral program.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "Now"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.1,
+        "word": "what's"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.1,
+        "word": "been"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "very"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "exciting"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "in"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.4,
+        "word": "recent"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "years"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.2,
+        "word": "is"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "the"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.3,
+        "word": "possibility"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.3,
+        "word": "that"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "this"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.2,
+        "word": "concept"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.5,
+        "word": "of"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.5,
+        "word": "hypokinetic"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.6,
+        "word": "disorder"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.9,
+        "word": "and"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.8,
+        "word": "hyperkinetic"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.0,
+        "word": "disorder"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 11.0,
+        "word": "might"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.3,
+        "word": "also"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.9,
+        "word": "apply"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.2,
+        "word": "to"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.7,
+        "word": "some"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.9,
+        "word": "of"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.0,
+        "word": "these"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.8,
+        "word": "non-motor"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.2,
+        "word": "Loops"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.4,
+        "word": "that"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.5,
+        "word": "are"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.8,
+        "word": "running"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 14.9,
+        "word": "through"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.1,
+        "word": "the"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "basal"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.5,
+        "word": "ganglia,"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 17.1,
+        "word": "perhaps"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.7,
+        "word": "various"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 18.6,
+        "word": "effective"
+      },
+      {
+        "startTime": 18.6,
+        "endTime": 18.9,
+        "word": "and"
+      },
+      {
+        "startTime": 18.9,
+        "endTime": 19.5,
+        "word": "cognitive"
+      },
+      {
+        "startTime": 19.5,
+        "endTime": 20.1,
+        "word": "disorders"
+      },
+      {
+        "startTime": 20.1,
+        "endTime": 21.2,
+        "word": "reflect"
+      },
+      {
+        "startTime": 21.2,
+        "endTime": 21.6,
+        "word": "either"
+      },
+      {
+        "startTime": 21.6,
+        "endTime": 21.7,
+        "word": "a"
+      },
+      {
+        "startTime": 21.7,
+        "endTime": 22.2,
+        "word": "failure"
+      },
+      {
+        "startTime": 22.2,
+        "endTime": 22.4,
+        "word": "to"
+      },
+      {
+        "startTime": 22.4,
+        "endTime": 23.1,
+        "word": "initiate"
+      },
+      {
+        "startTime": 23.1,
+        "endTime": 23.4,
+        "word": "a"
+      },
+      {
+        "startTime": 23.4,
+        "endTime": 23.9,
+        "word": "particular"
+      },
+      {
+        "startTime": 23.9,
+        "endTime": 24.6,
+        "word": "behavioral"
+      },
+      {
+        "startTime": 24.6,
+        "endTime": 25.0,
+        "word": "program"
+      },
+      {
+        "startTime": 25.0,
+        "endTime": 25.9,
+        "word": "or"
+      },
+      {
+        "startTime": 25.9,
+        "endTime": 26.6,
+        "word": "failure"
+      },
+      {
+        "startTime": 26.6,
+        "endTime": 26.7,
+        "word": "to"
+      },
+      {
+        "startTime": 26.7,
+        "endTime": 27.4,
+        "word": "suppress"
+      },
+      {
+        "startTime": 27.4,
+        "endTime": 28.1,
+        "word": "an"
+      },
+      {
+        "startTime": 28.1,
+        "endTime": 28.9,
+        "word": "inappropriate"
+      },
+      {
+        "startTime": 28.9,
+        "endTime": 29.4,
+        "word": "behavioral"
+      },
+      {
+        "startTime": 29.4,
+        "endTime": 30.0,
+        "word": "program."
+      }
+    ],
+    "length": 30.0
+  },
+  {
+    "id": 50,
+    "start": 581.2,
+    "end": 590.8,
+    "text": "So this is an exciting hypothesis that is getting much attention and research by cognitive neuroscientist and psychiatrist.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "So"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "this"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.2,
+        "word": "is"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.3,
+        "word": "an"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "exciting"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.6,
+        "word": "hypothesis"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "that"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.2,
+        "word": "is"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "getting"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.0,
+        "word": "much"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "attention"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.2,
+        "word": "and"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "research"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.5,
+        "word": "by"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.1,
+        "word": "cognitive"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 8.0,
+        "word": "neuroscientist"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.4,
+        "word": "and"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 9.6,
+        "word": "psychiatrist."
+      }
+    ],
+    "length": 9.599999999999909
+  }
+]

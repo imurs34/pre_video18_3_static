@@ -1,0 +1,2430 @@
+[
+  {
+    "start": 0, 
+    "end": 29.0623957290624, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 0
+  }, 
+  {
+    "start": 29.0623957290624, 
+    "end": 48.41508174841508, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 1
+  }, 
+  {
+    "start": 48.41508174841508, 
+    "end": 67.76776776776777, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 67.76776776776777, 
+    "end": 87.12045378712045, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 3
+  }, 
+  {
+    "start": 87.12045378712045, 
+    "end": 106.47313980647314, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 106.47313980647314, 
+    "end": 125.82582582582583, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          0, 
+          0, 
+          7680, 
+          4320
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 5
+  }, 
+  {
+    "start": 125.82582582582583, 
+    "end": 145.17851184517852, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          132, 
+          88, 
+          1105, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal |", 
+        "location": [
+          1158, 
+          263, 
+          962, 
+          361
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2024, 
+          261, 
+          1297, 
+          422
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " function ", 
+        "location": [
+          3185, 
+          264, 
+          1514, 
+          350
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          997, 
+          134
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          218, 
+          1343, 
+          1454, 
+          362
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " \u2018thalamo-cortical a", 
+        "location": [
+          1798, 
+          1343, 
+          3122, 
+          362
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " activity", 
+        "location": [
+          4688, 
+          1350, 
+          1453, 
+          446
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " te", 
+        "location": [
+          1502, 
+          1386, 
+          397, 
+          290
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1478
+        ], 
+        "block_num": 9
+      }
+    ], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 145.17851184517852, 
+    "end": 164.5311978645312, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          87, 
+          1117, 
+          745
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal |", 
+        "location": [
+          1158, 
+          264, 
+          961, 
+          349
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia |", 
+        "location": [
+          2024, 
+          260, 
+          1298, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " function ", 
+        "location": [
+          3185, 
+          264, 
+          1525, 
+          349
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          762, 
+          998, 
+          146
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          554, 
+          1343, 
+          1070, 
+          374
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " \u2018thalamo-cortical a", 
+        "location": [
+          1788, 
+          1343, 
+          3133, 
+          362
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          262, 
+          1354, 
+          398, 
+          350
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " activity", 
+        "location": [
+          4688, 
+          1350, 
+          1453, 
+          446
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " te", 
+        "location": [
+          1502, 
+          1386, 
+          386, 
+          290
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1466
+        ], 
+        "block_num": 10
+      }
+    ], 
+    "shot_id": 7
+  }, 
+  {
+    "start": 164.5311978645312, 
+    "end": 183.8838838838839, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          87, 
+          1118, 
+          745
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal", 
+        "location": [
+          1159, 
+          264, 
+          950, 
+          338
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia {", 
+        "location": [
+          2024, 
+          260, 
+          1298, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " function ", 
+        "location": [
+          3185, 
+          264, 
+          1525, 
+          349
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          998, 
+          134
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Modulate t", 
+        "location": [
+          200, 
+          1343, 
+          1874, 
+          374
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " thai", 
+        "location": [
+          1892, 
+          1343, 
+          626, 
+          362
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " 1lamo-cortical", 
+        "location": [
+          2374, 
+          1343, 
+          2258, 
+          362
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4553, 
+          1343, 
+          134, 
+          362
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " activity", 
+        "location": [
+          4688, 
+          1350, 
+          1453, 
+          446
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2101, 
+          2023, 
+          410, 
+          362
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2501, 
+          2023, 
+          1130, 
+          374
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Initiation \u00a2", 
+        "location": [
+          548, 
+          2033, 
+          1682, 
+          362
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3498, 
+          2034, 
+          494, 
+          350
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": "", 
+        "location": [
+          292, 
+          2152, 
+          158, 
+          146
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1478
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": " essic PF", 
+        "location": [
+          1153, 
+          2721, 
+          1105, 
+          410
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2611, 
+          2723, 
+          410, 
+          361
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2978, 
+          2723, 
+          1682, 
+          362
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          569, 
+          2741, 
+          698, 
+          410
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2109, 
+          2797, 
+          470, 
+          278
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": "", 
+        "location": [
+          292, 
+          2852, 
+          146, 
+          146
+        ], 
+        "block_num": 21
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 183.8838838838839, 
+    "end": 241.94194194194196, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          88, 
+          1117, 
+          733
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel |", 
+        "location": [
+          1141, 
+          264, 
+          1382, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathway", 
+        "location": [
+          2372, 
+          260, 
+          1358, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3982, 
+          261, 
+          158, 
+          422
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5313, 
+          261, 
+          134, 
+          422
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " streams}", 
+        "location": [
+          4047, 
+          306, 
+          1465, 
+          290
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " YS", 
+        "location": [
+          3542, 
+          345, 
+          386, 
+          325
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          783, 
+          998, 
+          122
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " MOTE LOIS", 
+        "location": [
+          1543, 
+          805, 
+          613, 
+          74
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3133, 
+          805, 
+          841, 
+          74
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          814, 
+          938, 
+          2978
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          916, 
+          825, 
+          1010, 
+          2966
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3610, 
+          825, 
+          914, 
+          2966
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4680, 
+          2167, 
+          1886, 
+          1478
+        ], 
+        "block_num": 14
+      }
+    ], 
+    "shot_id": 9
+  }, 
+  {
+    "start": 241.94194194194196, 
+    "end": 261.2946279612946, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          132, 
+          88, 
+          1106, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel | ", 
+        "location": [
+          1141, 
+          264, 
+          1382, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathways (", 
+        "location": [
+          2355, 
+          260, 
+          1765, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5312, 
+          260, 
+          158, 
+          433
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams }", 
+        "location": [
+          4048, 
+          306, 
+          1454, 
+          302
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          997, 
+          134
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " MOTOR Hr", 
+        "location": [
+          1543, 
+          795, 
+          613, 
+          85
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " RS STOR LOS", 
+        "location": [
+          3133, 
+          795, 
+          841, 
+          86
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          814, 
+          938, 
+          2977
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          675, 
+          825, 
+          1286, 
+          2966
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2965
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3599, 
+          825, 
+          950, 
+          2966
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1898, 
+          1466
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": "", 
+        "location": [
+          484, 
+          2309, 
+          349, 
+          937
+        ], 
+        "block_num": 13
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 261.2946279612946, 
+    "end": 300.0, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          123, 
+          88, 
+          1116, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel | ", 
+        "location": [
+          1141, 
+          264, 
+          1370, 
+          349
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathways (", 
+        "location": [
+          2344, 
+          260, 
+          1778, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5312, 
+          262, 
+          146, 
+          398
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams)", 
+        "location": [
+          4047, 
+          306, 
+          1465, 
+          290
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          762, 
+          998, 
+          146
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " MOTOR LOS", 
+        "location": [
+          1543, 
+          795, 
+          613, 
+          86
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Ra ATOR LoS", 
+        "location": [
+          3123, 
+          805, 
+          853, 
+          74
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          814, 
+          938, 
+          2978
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": "   GD lett Bice, be", 
+        "location": [
+          433, 
+          816, 
+          1562, 
+          3181
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3514, 
+          823, 
+          3230, 
+          3013
+        ], 
+        "block_num": 11
+      }
+    ], 
+    "shot_id": 11
+  }, 
+  {
+    "start": 300.0, 
+    "end": 319.3526860193527, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          132, 
+          87, 
+          1105, 
+          745
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel | f MOTOR Lor.", 
+        "location": [
+          1141, 
+          249, 
+          1382, 
+          709
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathways (", 
+        "location": [
+          2355, 
+          260, 
+          1766, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5312, 
+          261, 
+          158, 
+          422
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams }", 
+        "location": [
+          4047, 
+          306, 
+          1466, 
+          302
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          986, 
+          134
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " RS STOR LOS", 
+        "location": [
+          3133, 
+          795, 
+          841, 
+          86
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          814, 
+          937, 
+          2977
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "   Dt) er hee, a", 
+        "location": [
+          432, 
+          816, 
+          1585, 
+          3181
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3505, 
+          823, 
+          3240, 
+          3002
+        ], 
+        "block_num": 10
+      }
+    ], 
+    "shot_id": 12
+  }, 
+  {
+    "start": 319.3526860193527, 
+    "end": 358.05805805805807, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          123, 
+          88, 
+          1116, 
+          733
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel | ", 
+        "location": [
+          1141, 
+          264, 
+          1382, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathways (", 
+        "location": [
+          2344, 
+          260, 
+          1778, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5312, 
+          262, 
+          146, 
+          397
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams)", 
+        "location": [
+          4047, 
+          306, 
+          1465, 
+          290
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          762, 
+          998, 
+          146
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " MOTOR LOS", 
+        "location": [
+          1543, 
+          795, 
+          613, 
+          86
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " ROS ATOR LoS", 
+        "location": [
+          3133, 
+          805, 
+          841, 
+          74
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          814, 
+          938, 
+          2978
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " 5 7 5 | : : Faullodum   Pee.", 
+        "location": [
+          916, 
+          825, 
+          1010, 
+          2966
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3610, 
+          824, 
+          914, 
+          2978
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1466
+        ], 
+        "block_num": 12
+      }
+    ], 
+    "shot_id": 13
+  }, 
+  {
+    "start": 358.05805805805807, 
+    "end": 377.41074407741075, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          88, 
+          1118, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel |", 
+        "location": [
+          1141, 
+          264, 
+          1382, 
+          349
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathways (", 
+        "location": [
+          2345, 
+          260, 
+          1754, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5313, 
+          261, 
+          134, 
+          410
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams}", 
+        "location": [
+          4048, 
+          306, 
+          1454, 
+          290
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          762, 
+          997, 
+          146
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " MOTE LOH", 
+        "location": [
+          1543, 
+          795, 
+          613, 
+          86
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Re STR LORS", 
+        "location": [
+          3133, 
+          805, 
+          841, 
+          73
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " \u2014 ACER ba 5 q 5 | : : | ", 
+        "location": [
+          916, 
+          825, 
+          1010, 
+          2966
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          824, 
+          938, 
+          2977
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3610, 
+          825, 
+          914, 
+          2966
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": "", 
+        "location": [
+          582, 
+          1941, 
+          398, 
+          1621
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1898, 
+          1466
+        ], 
+        "block_num": 13
+      }
+    ], 
+    "shot_id": 14
+  }, 
+  {
+    "start": 377.41074407741075, 
+    "end": 396.76343009676344, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          88, 
+          1118, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " 3 Parallel pat ", 
+        "location": [
+          874, 
+          121, 
+          2030, 
+          3770
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "   He =, ", 
+        "location": [
+          2319, 
+          121, 
+          2389, 
+          3770
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5313, 
+          261, 
+          134, 
+          410
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams}", 
+        "location": [
+          4048, 
+          306, 
+          1454, 
+          290
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          762, 
+          997, 
+          146
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1898, 
+          1478
+        ], 
+        "block_num": 6
+      }
+    ], 
+    "shot_id": 15
+  }, 
+  {
+    "start": 396.76343009676344, 
+    "end": 454.8214881548215, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          123, 
+          88, 
+          1116, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel | ", 
+        "location": [
+          1141, 
+          264, 
+          1370, 
+          349
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathways (", 
+        "location": [
+          2344, 
+          260, 
+          1778, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5312, 
+          262, 
+          145, 
+          398
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " streams}", 
+        "location": [
+          4047, 
+          306, 
+          1465, 
+          290
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          998, 
+          134
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " MOTE LO", 
+        "location": [
+          1543, 
+          805, 
+          613, 
+          74
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " ROS TOR LoS", 
+        "location": [
+          3133, 
+          805, 
+          841, 
+          74
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          916, 
+          825, 
+          1009, 
+          2966
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2739, 
+          825, 
+          938, 
+          2966
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3610, 
+          825, 
+          914, 
+          2966
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1466
+        ], 
+        "block_num": 12
+      }
+    ], 
+    "shot_id": 16
+  }, 
+  {
+    "start": 454.8214881548215, 
+    "end": 474.1741741741742, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          111, 
+          88, 
+          1129, 
+          733
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Parallel ]", 
+        "location": [
+          1142, 
+          264, 
+          1358, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " pathway", 
+        "location": [
+          2362, 
+          260, 
+          1358, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3982, 
+          261, 
+          145, 
+          410
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5312, 
+          262, 
+          146, 
+          397
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " streams }", 
+        "location": [
+          4048, 
+          306, 
+          1454, 
+          302
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " YS", 
+        "location": [
+          3542, 
+          344, 
+          397, 
+          337
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          752, 
+          997, 
+          158
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " MOTOR LOS", 
+        "location": [
+          1532, 
+          794, 
+          625, 
+          98
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " MON PEO Los", 
+        "location": [
+          3133, 
+          794, 
+          842, 
+          110
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          916, 
+          784, 
+          1010, 
+          3217
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1829, 
+          793, 
+          950, 
+          3002
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2729, 
+          814, 
+          950, 
+          2978
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3599, 
+          814, 
+          938, 
+          2978
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4680, 
+          2146, 
+          1886, 
+          1502
+        ], 
+        "block_num": 14
+      }
+    ], 
+    "shot_id": 17
+  }, 
+  {
+    "start": 474.1741741741742, 
+    "end": 493.5268601935269, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          132, 
+          87, 
+          1106, 
+          745
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal |", 
+        "location": [
+          1158, 
+          263, 
+          961, 
+          361
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia \u00ab", 
+        "location": [
+          2024, 
+          260, 
+          1298, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " dysfunction", 
+        "location": [
+          3169, 
+          260, 
+          2138, 
+          434
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          997, 
+          134
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1466
+        ], 
+        "block_num": 5
+      }
+    ], 
+    "shot_id": 18
+  }, 
+  {
+    "start": 493.5268601935269, 
+    "end": 532.2322322322323, 
+    "ocr_result": [
+      {
+        "text": " Basal ganglia d           Hypokinetic movement disc (Parkisonsim): failure of ini", 
+        "location": [
+          27, 
+          34, 
+          3421, 
+          2030
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " dysfunction", 
+        "location": [
+          3169, 
+          260, 
+          2138, 
+          434
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " disorders", 
+        "location": [
+          3018, 
+          968, 
+          1213, 
+          254
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " initiation ", 
+        "location": [
+          3151, 
+          1228, 
+          1142, 
+          241
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1898, 
+          1466
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 19
+  }, 
+  {
+    "start": 532.2322322322323, 
+    "end": 551.5849182515849, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          123, 
+          88, 
+          1116, 
+          733
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal |", 
+        "location": [
+          1158, 
+          264, 
+          961, 
+          349
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia \u00ab", 
+        "location": [
+          2024, 
+          260, 
+          1310, 
+          434
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " dysfunction", 
+        "location": [
+          3169, 
+          260, 
+          2138, 
+          434
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          762, 
+          997, 
+          158
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Hypokinetic mo\\ (Parkisonsim): f", 
+        "location": [
+          422, 
+          953, 
+          1826, 
+          601
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " disorders", 
+        "location": [
+          3018, 
+          968, 
+          1213, 
+          254
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " movement a", 
+        "location": [
+          1779, 
+          999, 
+          1417, 
+          229
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          174, 
+          1064, 
+          109, 
+          98
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " of", 
+        "location": [
+          2886, 
+          1207, 
+          290, 
+          265
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " failure \u00ab", 
+        "location": [
+          2102, 
+          1218, 
+          865, 
+          253
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " initiation   ", 
+        "location": [
+          3151, 
+          1228, 
+          1142, 
+          241
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1898, 
+          1466
+        ], 
+        "block_num": 12
+      }
+    ], 
+    "shot_id": 20
+  }, 
+  {
+    "start": 551.5849182515849, 
+    "end": 570.9376042709376, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          88, 
+          1118, 
+          734
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal |", 
+        "location": [
+          1158, 
+          264, 
+          962, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia \u00ab", 
+        "location": [
+          2024, 
+          260, 
+          1298, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " dysfunction", 
+        "location": [
+          3169, 
+          261, 
+          2138, 
+          422
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          997, 
+          134
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Hypokinetic mo\\ (Parkisonsim): f", 
+        "location": [
+          422, 
+          953, 
+          1826, 
+          601
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " disorders", 
+        "location": [
+          3018, 
+          967, 
+          1213, 
+          265
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " movement a", 
+        "location": [
+          1779, 
+          999, 
+          1417, 
+          218
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          174, 
+          1064, 
+          109, 
+          98
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " of", 
+        "location": [
+          2896, 
+          1207, 
+          289, 
+          265
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " failure \u00ab", 
+        "location": [
+          2113, 
+          1218, 
+          842, 
+          253
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " initiation   ", 
+        "location": [
+          3151, 
+          1228, 
+          1142, 
+          241
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " , ypermenc movement disorders untington\u2019s disease): failure of ", 
+        "location": [
+          231, 
+          1572, 
+          4490, 
+          625
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " suppression", 
+        "location": [
+          423, 
+          2105, 
+          1562, 
+          313
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1898, 
+          1466
+        ], 
+        "block_num": 14
+      }
+    ], 
+    "shot_id": 21
+  }, 
+  {
+    "start": 570.9376042709376, 
+    "end": 590.2902902902903, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  ", 
+        "location": [
+          122, 
+          88, 
+          1118, 
+          733
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Basal |", 
+        "location": [
+          1159, 
+          264, 
+          950, 
+          350
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ganglia \u00ab", 
+        "location": [
+          2024, 
+          260, 
+          1298, 
+          433
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " dysfunction", 
+        "location": [
+          3169, 
+          261, 
+          2138, 
+          422
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          773, 
+          997, 
+          134
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Hypokinetic mo\\ (Parkisonsim): f", 
+        "location": [
+          422, 
+          953, 
+          1826, 
+          601
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " disorders", 
+        "location": [
+          3018, 
+          967, 
+          1213, 
+          265
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " movement a", 
+        "location": [
+          1779, 
+          999, 
+          1417, 
+          218
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          174, 
+          1064, 
+          109, 
+          98
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " of", 
+        "location": [
+          2896, 
+          1207, 
+          289, 
+          265
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " failure \u00ab", 
+        "location": [
+          2113, 
+          1218, 
+          842, 
+          253
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " initiation   ", 
+        "location": [
+          3151, 
+          1228, 
+          1142, 
+          241
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Hyperkinetic rr", 
+        "location": [
+          420, 
+          1585, 
+          1646, 
+          326
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " disorders", 
+        "location": [
+          3108, 
+          1587, 
+          1202, 
+          265
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " movement a", 
+        "location": [
+          1859, 
+          1619, 
+          1418, 
+          230
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": "", 
+        "location": [
+          174, 
+          1673, 
+          110, 
+          121
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": " failure \u00a2", 
+        "location": [
+          3073, 
+          1837, 
+          842, 
+          266
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": " (Huntington\u2019s \u00ab", 
+        "location": [
+          430, 
+          1845, 
+          1646, 
+          313
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " disease):", 
+        "location": [
+          1991, 
+          1846, 
+          1129, 
+          302
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3846, 
+          1848, 
+          290, 
+          253
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " suppression", 
+        "location": [
+          423, 
+          2105, 
+          1562, 
+          313
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4679, 
+          2167, 
+          1897, 
+          1477
+        ], 
+        "block_num": 21
+      }
+    ], 
+    "shot_id": 22
+  }, 
+  {
+    "start": 590.2902902902903, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": " ay Basal ganglia dysfunction \u00a2 Hypokinetic movement disorders (Parkisonsim): failure of initiation \u00ab Hyperkinetic movement disorders (Huntington\u2019s disease): failure of suppression \u00ab Affective and cognitive disorders (depression, schizophrenia, Tourette\u2019s syndrome): failure of initiation and/or suppression (?) ", 
+        "location": [
+          0, 
+          0, 
+          582, 
+          417
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          467, 
+          216, 
+          196, 
+          146
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 23
+  }
+]
